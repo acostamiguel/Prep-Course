@@ -1,3 +1,8 @@
+
+//PRIMEROS PASOS
+//Para guardar los cambios se abre la consola (ctrl+ñ)/"git status"/"git add (nombre del archivo) y control
+//Para comprobar se usa de nuevo "git status" y debería aparecer en verde
+
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
